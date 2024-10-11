@@ -29,7 +29,6 @@ The following tasks and questions will drive the visualization and interaction d
  * I want to discover outliers or extremes with regard to Sodium (mg) and Item attributes. 
  * I want to understand the distribution of Sodium (mg), Cholesterol (mg) and Calorie values for different fast food restaurants.
  * I want to visualize the correlation between Sodium (mg) and Cholesterol (mg).
- * Are there any patterns that can be observed by food served at specific restaurants with regard to the sodium and cholesterol?
 
 The overall motivation and central research questions this project seeks to answer are: Which fast food items are above the recommended daily intake ranges for sodium, cholesterol and calories? Are there any patterns that can be observed by food served at specific restaurants with regard to the sodium and cholesterol?
 
