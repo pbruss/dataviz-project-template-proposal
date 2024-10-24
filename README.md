@@ -47,6 +47,9 @@ I’ve created a [proof of concept visualization](https://vizhub.com/pbruss/cs57
 
 ![Prototype View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/prototype.png?raw=true)
 
+![Alt text](https://vizhub.com/pbruss/saturated-fat-vs-sodium)
+
+
 ## Milestones
 - Week 2: Select 3 candidate datasets
 - Week 3: Identify 5 dataset tasks for each candidate dataset
