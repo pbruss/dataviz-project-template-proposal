@@ -47,7 +47,7 @@ I’ve created a [proof of concept visualization](https://vizhub.com/pbruss/cs57
 
 ![Prototype View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/prototype.png?raw=true)
 
-![Alt text](https://vizhub.com/pbruss/saturated-fat-vs-sodium)
+https://vizhub.com/pbruss/saturated-fat-vs-sodium
 
 
 ## Milestones
