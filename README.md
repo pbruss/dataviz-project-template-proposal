@@ -24,13 +24,13 @@ The dataset consists of 1072 unique menu items (rows) and is organized with the 
 
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+The following tasks and questions will drive the visualization and interaction decisions for this project.
 
  * I want to discover outliers or extremes with regard to Sodium (mg) and Item attributes. 
  * I want to understand the distribution of Sodium (mg), Cholesterol (mg) and Calorie values for different fast food restaurants.
- * I want to visualize the correlation between Sodium (mg) and Cholesterol (mg).
+ * I want to visualize the correlation between Sodium (mg) and Cholesterol (mg), Saturated Fat (g) and Sugar (g).
 
-The overall motivation and central research questions this project seeks to answer are: Which fast food items are above the recommended daily intake ranges for sodium, cholesterol and calories? Are there any patterns that can be observed by food served at specific restaurants with regard to the sodium and cholesterol?
+Nutrition experts target three nutritional attributes when dealing The overall motivation and central research questions this project seeks to answer are: Which fast food items are above the recommended daily intake ranges for sodium, cholesterol, saturated fat, sugar and calories? Are there any patterns that can be observed by food served at specific restaurants with regard to the sodium, cholesterol, saturated fat, sugar and calories?
 
 ## Sketches
 
@@ -47,8 +47,7 @@ I’ve created a [proof of concept visualization](https://vizhub.com/pbruss/cs57
 
 ![Prototype View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/prototype.png?raw=true)
 
-https://vizhub.com/pbruss/saturated-fat-vs-sodium
-
+[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
 
 ## Milestones
 - Week 2: Select 3 candidate datasets
