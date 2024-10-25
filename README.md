@@ -47,7 +47,7 @@ I’ve created a [proof of concept visualization](https://vizhub.com/pbruss/cs57
 
 ![Prototype View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/prototype.png?raw=true)
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/pbruss/saturated-fat-vs-sodium)
 
 ## Milestones
 - Week 2: Select 3 candidate datasets
