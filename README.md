@@ -65,6 +65,11 @@ Saturated Fat vs Sodium:
 [![image](https://github.com/user-attachments/assets/66413edd-e733-4d6d-b788-7f00edf29809)
 ](https://vizhub.com/pbruss/saturatedfat_vs_sodium_v3)
 
+Sugar vs Sodium: 
+[![image](https://github.com/user-attachments/assets/e7128554-63bb-419c-a25a-c91c7f145d2f)
+](https://vizhub.com/pbruss/sugar_vs_sodium_v3)
+
+
 
 
 ## Milestones
