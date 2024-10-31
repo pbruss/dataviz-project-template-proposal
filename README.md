@@ -42,24 +42,23 @@ This is the sketch of the viz I intend to present for this project. The data is 
 This is an extension of the first sketch. It introduces categorical groupings by restaurant name. The goal of this sketch is to address the question - are there any patterns that can be observed by food served at specific restaurants with regard to the sodium and cholesterol? Interactions also include hovering and zooming.
 
 ## First Iteration Prototypes
-
 I’ve created a [proof of concept visualization](https://vizhub.com/pbruss/cs573-final-project) of this data.
 
 ![Prototype View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/prototype.png?raw=true)
 
 ## Second Iteration Prototypes
-
-Cholesterol vs Sodium plot with category grouping
-
+Cholesterol vs Sodium:
 [![image](https://github.com/user-attachments/assets/e608502d-8bb7-4a37-9da7-d00883e7ced8)
 ](https://vizhub.com/pbruss/cholesterol-vs-sodium)
 
-Sugar vs Sodium plot with caregory grouping
-
+Sugar vs Sodium plot:
 [![image](https://github.com/user-attachments/assets/40c07f62-4abe-4646-b6ef-bf6fe5dc482b)
 ](https://vizhub.com/pbruss/sugar-vs-sodium)
 
 ## Third Iteration Prototypes (w/ legend & tooltip)
+Cholesterol vs Sodium:
+[![image](https://github.com/user-attachments/assets/1983dea2-95ef-4e42-a7ec-95df97678b14)
+](https://vizhub.com/pbruss/cholesterol_vs_sodium_v3)
 
 Saturated Fat vs Sodium:
 [![image](https://github.com/user-attachments/assets/66413edd-e733-4d6d-b788-7f00edf29809)
@@ -68,9 +67,6 @@ Saturated Fat vs Sodium:
 Sugar vs Sodium: 
 [![image](https://github.com/user-attachments/assets/e7128554-63bb-419c-a25a-c91c7f145d2f)
 ](https://vizhub.com/pbruss/sugar_vs_sodium_v3)
-
-
-
 
 ## Milestones
 - Week 2: Select 3 candidate datasets
