@@ -39,7 +39,7 @@ This is the sketch of the viz I intend to present for this project. The data is 
 ![Sketch View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/sketch_2.png?raw=true)
 This is an extension of the first sketch. It introduces categorical groupings by restaurant name. The goal of this sketch is to address the question - are there any patterns that can be observed by food served at specific restaurants with regard to the sodium and cholesterol? Interactions also include hovering and zooming.
 
-## First Iteration Prototypes
+## First Iteration Prototypes (w/ no category coloring)
 I’ve created a [Cholesterol vs Sodium proof of concept visualization](https://vizhub.com/pbruss/cs573-final-project) of this data.
 
 ![Prototype View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/prototype.png?raw=true)
@@ -52,7 +52,7 @@ Saturated Fat vs Sodium:
 [![image](https://github.com/user-attachments/assets/9f94fb48-8924-4872-be4b-ba110ec17488)
 ](https://vizhub.com/pbruss/saturatedfat_vs_sodium_v1)
 
-## Second Iteration Prototypes
+## Second Iteration Prototypes (w/ category coloring)
 Cholesterol vs Sodium:
 [![image](https://github.com/user-attachments/assets/e608502d-8bb7-4a37-9da7-d00883e7ced8)
 ](https://vizhub.com/pbruss/cholesterol-vs-sodium)
