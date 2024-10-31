@@ -59,7 +59,7 @@ Sugar vs Sodium plot with caregory grouping
 
 Saturated Fat vs Sodium plot with legend and category grouping
 
-![Screenshot (3)](https://github.com/user-attachments/assets/c607e5be-e4cf-497f-a1a2-7cf2077f6ffc)
+![Screenshot (3)](https://github.com/user-attachments/assets/a1e50743-bea0-403b-9363-05c7648d8686)
 
 
 ## Milestones
