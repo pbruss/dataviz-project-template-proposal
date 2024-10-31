@@ -49,7 +49,8 @@ I’ve created a [proof of concept visualization](https://vizhub.com/pbruss/cs57
 
 Cholesterol vs Sodium plot with category grouping
 
-[![image]()](https://vizhub.com/pbruss/cholesterol-vs-sodium)
+[![image](https://github.com/user-attachments/assets/e608502d-8bb7-4a37-9da7-d00883e7ced8)
+)](https://vizhub.com/pbruss/cholesterol-vs-sodium)
 
 Sugar vs Sodium plot with caregory grouping
 
