@@ -23,14 +23,12 @@ The dataset consists of 1072 unique menu items (rows) and is organized with the 
   - Weight Watchers Pnts
 
 ## Questions & Tasks
-
-The following tasks and questions will drive the visualization and interaction decisions for this project.
-
+Nutrition experts agree that hypertension, a prevalent condition worldwide, is directly influenced by dietary factors such as excessive consumption levels of sodium, cholesterol, saturated fat, and added sugar. This project aims to analyze these key nutritional components within the menu items of six major fast-food chains, examined through the lens of the Dietary Approaches to Stop Hypertension (DASH) guidelines. The DASH diet, specifically designed to combat high blood pressure, emphasizes low intake of sodium, cholesterol, and saturated fats while limiting added sugars. The following tasks and questions will drive the visualization and interaction decisions for this project.
  * I want to discover outliers or extremes with regard to Sodium (mg) and Item attributes. 
  * I want to understand the distribution of Sodium (mg), Cholesterol (mg) and Calorie values for different fast food restaurants.
  * I want to visualize the correlation between Sodium (mg) and Cholesterol (mg), Saturated Fat (g) and Sugar (g).
 
-Nutrition experts agree that hypertension, a prevalent condition worldwide, is directly influenced by dietary factors such as excessive consumption of sodium, cholesterol, saturated fat, and added sugar. This study provides a comprehensive analysis of these key nutritional components within the menu items of six major fast-food chains, examined through the lens of the Dietary Approaches to Stop Hypertension (DASH) guidelines. The DASH diet, specifically designed to combat high blood pressure, emphasizes low intake of sodium, cholesterol, and saturated fats while limiting added sugars. target three nutritional attributes when dealing The overall motivation and central research questions this project seeks to answer are: Which fast food items are above the recommended daily intake ranges for sodium, cholesterol, saturated fat, sugar and calories? Are there any patterns that can be observed by food served at specific restaurants with regard to the sodium, cholesterol, saturated fat, sugar and calories?
+Additionally, which fast food items are above the recommended daily intake ranges for sodium, cholesterol, saturated fat, sugar and calories? Are there any patterns that can be observed by food served at specific restaurants with regard to the sodium, cholesterol, saturated fat, sugar and calories?
 
 ## Sketches
 
@@ -59,11 +57,15 @@ Cholesterol vs Sodium:
 [![image](https://github.com/user-attachments/assets/e608502d-8bb7-4a37-9da7-d00883e7ced8)
 ](https://vizhub.com/pbruss/cholesterol-vs-sodium)
 
-Sugar vs Sodium plot:
+Sugar vs Sodium:
 [![image](https://github.com/user-attachments/assets/40c07f62-4abe-4646-b6ef-bf6fe5dc482b)
 ](https://vizhub.com/pbruss/sugar-vs-sodium)
 
-## Third Iteration Prototypes (w/ legend & tooltip)
+Saturated Fat vs Cholesterol:
+[![image](https://github.com/user-attachments/assets/fa76b0b7-59be-413c-8c54-c1e0e78170ba)
+](https://vizhub.com/pbruss/saturatedfat_vs_sodium_v2)
+
+## Third Iteration Prototypes (w/ legend)
 Cholesterol vs Sodium:
 [![image](https://github.com/user-attachments/assets/1983dea2-95ef-4e42-a7ec-95df97678b14)
 ](https://vizhub.com/pbruss/cholesterol_vs_sodium_v3)
