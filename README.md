@@ -30,7 +30,7 @@ The following tasks and questions will drive the visualization and interaction d
  * I want to understand the distribution of Sodium (mg), Cholesterol (mg) and Calorie values for different fast food restaurants.
  * I want to visualize the correlation between Sodium (mg) and Cholesterol (mg), Saturated Fat (g) and Sugar (g).
 
-Nutrition experts target three nutritional attributes when dealing The overall motivation and central research questions this project seeks to answer are: Which fast food items are above the recommended daily intake ranges for sodium, cholesterol, saturated fat, sugar and calories? Are there any patterns that can be observed by food served at specific restaurants with regard to the sodium, cholesterol, saturated fat, sugar and calories?
+Nutrition experts agree that hypertension, a prevalent condition worldwide, is directly influenced by dietary factors such as excessive consumption of sodium, cholesterol, saturated fat, and added sugar. This study provides a comprehensive analysis of these key nutritional components within the menu items of six major fast-food chains, examined through the lens of the Dietary Approaches to Stop Hypertension (DASH) guidelines. The DASH diet, specifically designed to combat high blood pressure, emphasizes low intake of sodium, cholesterol, and saturated fats while limiting added sugars. target three nutritional attributes when dealing The overall motivation and central research questions this project seeks to answer are: Which fast food items are above the recommended daily intake ranges for sodium, cholesterol, saturated fat, sugar and calories? Are there any patterns that can be observed by food served at specific restaurants with regard to the sodium, cholesterol, saturated fat, sugar and calories?
 
 ## Sketches
 
@@ -41,11 +41,13 @@ This is the sketch of the viz I intend to present for this project. The data is 
 ![Sketch View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/sketch_2.png?raw=true)
 This is an extension of the first sketch. It introduces categorical groupings by restaurant name. The goal of this sketch is to address the question - are there any patterns that can be observed by food served at specific restaurants with regard to the sodium and cholesterol? Interactions also include hovering and zooming.
 
-## Prototypes
+## First Iteration Prototypes
 
 I’ve created a [proof of concept visualization](https://vizhub.com/pbruss/cs573-final-project) of this data.
 
 ![Prototype View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/prototype.png?raw=true)
+
+## Second Iteration Prototypes
 
 Cholesterol vs Sodium plot with category grouping
 
@@ -56,6 +58,8 @@ Sugar vs Sodium plot with caregory grouping
 
 [![image](https://github.com/user-attachments/assets/40c07f62-4abe-4646-b6ef-bf6fe5dc482b)
 ](https://vizhub.com/pbruss/sugar-vs-sodium)
+
+## Third Iteration Prototypes
 
 Saturated Fat vs Sodium plot with legend and category grouping
 
