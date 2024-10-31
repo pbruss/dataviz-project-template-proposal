@@ -47,7 +47,9 @@ I’ve created a [proof of concept visualization](https://vizhub.com/pbruss/cs57
 
 ![Prototype View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/prototype.png?raw=true)
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/pbruss/saturated-fat-vs-sodium)
+Saturated Fat vs Sodium chart with legend and category grouping
+
+[![image](https://private-user-images.githubusercontent.com/44297846/381822849-9e6339a1-96f6-4562-9943-f1a2d26feb93.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzNDkxMjUsIm5iZiI6MTczMDM0ODgyNSwicGF0aCI6Ii80NDI5Nzg0Ni8zODE4MjI4NDktOWU2MzM5YTEtOTZmNi00NTYyLTk5NDMtZjFhMmQyNmZlYjkzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMxVDA0MjcwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlOTE2MzdiODU4M2M1MTUzOGRjYzBiMThmYWI0MTc0ZjM0ODE4YzQ3NTE5NDZhYWI3NTE0YTU4NmM5NmFiYzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4QwmMooRQvHze5q4heDUPwzgQT_jr6e4Hkyf68ojSu4)](https://vizhub.com/pbruss/ccbaa1a908844829bfdd6811ffcc6fbf)
 
 ## Milestones
 - Week 2: Select 3 candidate datasets
