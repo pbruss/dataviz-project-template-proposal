@@ -59,11 +59,12 @@ Sugar vs Sodium plot with caregory grouping
 [![image](https://github.com/user-attachments/assets/40c07f62-4abe-4646-b6ef-bf6fe5dc482b)
 ](https://vizhub.com/pbruss/sugar-vs-sodium)
 
-## Third Iteration Prototypes
+## Third Iteration Prototypes (w/ legend & tooltip)
 
-Saturated Fat vs Sodium plot with legend and category grouping
+Saturated Fat vs Sodium:
+[![image](https://github.com/user-attachments/assets/66413edd-e733-4d6d-b788-7f00edf29809)
+](https://vizhub.com/pbruss/saturatedfat_vs_sodium_v3)
 
-![Screenshot (3)](https://github.com/user-attachments/assets/a1e50743-bea0-403b-9363-05c7648d8686)
 
 
 ## Milestones
