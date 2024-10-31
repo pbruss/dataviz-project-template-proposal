@@ -54,7 +54,8 @@ Cholesterol vs Sodium plot with category grouping
 
 Sugar vs Sodium plot with caregory grouping
 
-[![image]()](https://vizhub.com/pbruss/sugar-vs-sodium)
+[![image](https://github.com/user-attachments/assets/40c07f62-4abe-4646-b6ef-bf6fe5dc482b)
+)](https://vizhub.com/pbruss/sugar-vs-sodium)
 
 Saturated Fat vs Sodium plot with legend and category grouping
 
