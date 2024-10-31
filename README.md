@@ -46,6 +46,11 @@ I’ve created a [proof of concept visualization](https://vizhub.com/pbruss/cs57
 
 ![Prototype View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/prototype.png?raw=true)
 
+Sugar vs Sodium:
+[![image](https://github.com/user-attachments/assets/5420132b-55b7-416d-9a07-8fb8ab5a90f2)
+](https://vizhub.com/pbruss/sugar_vs_sodium_v1)
+
+
 ## Second Iteration Prototypes
 Cholesterol vs Sodium:
 [![image](https://github.com/user-attachments/assets/e608502d-8bb7-4a37-9da7-d00883e7ced8)
