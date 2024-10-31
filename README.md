@@ -50,16 +50,17 @@ I’ve created a [proof of concept visualization](https://vizhub.com/pbruss/cs57
 Cholesterol vs Sodium plot with category grouping
 
 [![image](https://github.com/user-attachments/assets/e608502d-8bb7-4a37-9da7-d00883e7ced8)
-)](https://vizhub.com/pbruss/cholesterol-vs-sodium)
+](https://vizhub.com/pbruss/cholesterol-vs-sodium)
 
 Sugar vs Sodium plot with caregory grouping
 
 [![image](https://github.com/user-attachments/assets/40c07f62-4abe-4646-b6ef-bf6fe5dc482b)
-)](https://vizhub.com/pbruss/sugar-vs-sodium)
+](https://vizhub.com/pbruss/sugar-vs-sodium)
 
 Saturated Fat vs Sodium plot with legend and category grouping
 
-[![image](https://private-user-images.githubusercontent.com/44297846/381822849-9e6339a1-96f6-4562-9943-f1a2d26feb93.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzNDkxMjUsIm5iZiI6MTczMDM0ODgyNSwicGF0aCI6Ii80NDI5Nzg0Ni8zODE4MjI4NDktOWU2MzM5YTEtOTZmNi00NTYyLTk5NDMtZjFhMmQyNmZlYjkzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMxVDA0MjcwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlOTE2MzdiODU4M2M1MTUzOGRjYzBiMThmYWI0MTc0ZjM0ODE4YzQ3NTE5NDZhYWI3NTE0YTU4NmM5NmFiYzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4QwmMooRQvHze5q4heDUPwzgQT_jr6e4Hkyf68ojSu4)](https://vizhub.com/pbruss/ccbaa1a908844829bfdd6811ffcc6fbf)
+![Screenshot (3)](https://github.com/user-attachments/assets/c607e5be-e4cf-497f-a1a2-7cf2077f6ffc)
+
 
 ## Milestones
 - Week 2: Select 3 candidate datasets
