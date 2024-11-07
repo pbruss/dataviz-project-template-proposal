@@ -80,10 +80,17 @@ Sugar vs Sodium:
 
 ## Fourth Iteration Prototypes (w/ interactive color display)
 Cholesterol vs Sodium:
+[![image]()
+](https://vizhub.com/pbruss/cholesterol_vs_sodium_v4)
 
 Saturated Fat vs Sodium:
+[![image]()
+](https://vizhub.com/pbruss/saturatedfat_vs_sodium_v4)
 
 Sugar vs Sodium:
+[![image](https://github.com/user-attachments/assets/ee540fe2-8a06-418d-bc90-64b4a164511d)
+](https://vizhub.com/pbruss/sugar_vs_sodium_v4)
+
 
 ## Milestones
 - Week 2: Select 3 candidate datasets
