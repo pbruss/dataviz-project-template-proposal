@@ -84,7 +84,7 @@ Cholesterol vs Sodium:
 ](https://vizhub.com/pbruss/cholesterol_vs_sodium_v4)
 
 Saturated Fat vs Sodium:
-[![image]()
+[![image](https://github.com/user-attachments/assets/a42a10df-5ca9-4567-b45b-7df01224b6eb)
 ](https://vizhub.com/pbruss/saturatedfat_vs_sodium_v4)
 
 Sugar vs Sodium:
