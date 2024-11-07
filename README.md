@@ -79,15 +79,15 @@ Sugar vs Sodium:
 ](https://vizhub.com/pbruss/sugar_vs_sodium_v3)
 
 ## Fourth Iteration Prototypes (w/ interactive color display)
-Cholesterol vs Sodium:
+Cholesterol vs Sodium: McDonald's Sample View
 [![image](https://github.com/user-attachments/assets/c045af05-b51c-4ac8-aab6-5775ccee4f19)
 ](https://vizhub.com/pbruss/cholesterol_vs_sodium_v4)
 
-Saturated Fat vs Sodium:
+Saturated Fat vs Sodium: McDonald's Sample View
 [![image](https://github.com/user-attachments/assets/a42a10df-5ca9-4567-b45b-7df01224b6eb)
 ](https://vizhub.com/pbruss/saturatedfat_vs_sodium_v4)
 
-Sugar vs Sodium:
+Sugar vs Sodium: McDonald's Sample View
 [![image](https://github.com/user-attachments/assets/377e9166-bbd4-4b2c-8ee7-509873fdce86)
 ](https://vizhub.com/pbruss/sugar_vs_sodium_v4)
 
