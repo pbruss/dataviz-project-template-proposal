@@ -80,7 +80,7 @@ Sugar vs Sodium:
 
 ## Fourth Iteration Prototypes (w/ interactive color display)
 Cholesterol vs Sodium:
-[![image]()
+[![image](https://github.com/user-attachments/assets/c045af05-b51c-4ac8-aab6-5775ccee4f19)
 ](https://vizhub.com/pbruss/cholesterol_vs_sodium_v4)
 
 Saturated Fat vs Sodium:
