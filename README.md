@@ -91,7 +91,7 @@ Sugar vs Sodium: McDonald's Sample View
 [![image](https://github.com/user-attachments/assets/377e9166-bbd4-4b2c-8ee7-509873fdce86)
 ](https://vizhub.com/pbruss/sugar_vs_sodium_v4)
 
-## Analysis Phase 2 (Bar Chart Prototypes - Iteration 1)
+## Analysis Phase 2 (Bar Chart Prototypes - Iteration 1) --> 11/15/2024
 For each fast food restaurant, the following responsive and interactive  bar charts were made:
 
 Average Sodium (mg):
