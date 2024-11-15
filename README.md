@@ -95,7 +95,7 @@ Sugar vs Sodium: McDonald's Sample View
 For each fast food restaurant, the following bar charts were made:
 
 Average Sodium (mg):
-[![image]()
+[![image](https://github.com/user-attachments/assets/9b8b24c7-ce16-4261-8463-95394c1ffd7a)
 ](https://vizhub.com/pbruss/avg_sodium_barchart_v1)
 
 Average Cholesterol (mg):
