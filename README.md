@@ -99,19 +99,19 @@ Average Sodium (mg):
 ](https://vizhub.com/pbruss/avg_sodium_barchart_v1)
 
 Average Cholesterol (mg):
-[![image]()
+[![image](https://github.com/user-attachments/assets/70df5898-2c1b-4d93-88e2-ac24719fbd40)
 ](https://vizhub.com/pbruss/avg_cholesterol_barchart_v1)
 
 Average Saturated Fat (g):
-[![image]()
+[![image](https://github.com/user-attachments/assets/17b74beb-bbea-4b9c-a16c-1a52b94c33c4)
 ](https://vizhub.com/pbruss/avg_satfat_barchart_v1)
 
 Average Sugar (g):
-[![image]()
+[![image](https://github.com/user-attachments/assets/13668b0c-6ab4-48e2-b684-dfcf0ae41c29)
 ](https://vizhub.com/pbruss/avg_sugar_barchart_v1)
 
 Average Calories:
-[![image]()
+[![image](https://github.com/user-attachments/assets/e8bd2348-aef9-41fa-b1f9-174363ed236f)
 ](https://vizhub.com/pbruss/avg_calories_barchart_v1)
 
 
