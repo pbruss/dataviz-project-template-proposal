@@ -91,7 +91,7 @@ Sugar vs Sodium: McDonald's Sample View
 [![image](https://github.com/user-attachments/assets/377e9166-bbd4-4b2c-8ee7-509873fdce86)
 ](https://vizhub.com/pbruss/sugar_vs_sodium_v4)
 
-## Analysis Phase 2 (Bar Chart Prototypes - Iteration 1) --> 11/15/2024
+## Analysis Phase 2 (Bar Chart Prototypes - Iteration 1) --> Week 12 (11/15/2024)
 For each fast food restaurant, the following responsive and interactive  bar charts were made:
 
 Average Sodium (mg):
@@ -114,6 +114,29 @@ Average Calories:
 [![image](https://github.com/user-attachments/assets/e8bd2348-aef9-41fa-b1f9-174363ed236f)
 ](https://vizhub.com/pbruss/avg_calories_barchart_v1)
 
+## Preliminary Findings --> Week 13 (11/15/2024)
+
+The following were the results for the four key attributes (metrics):
+
+Sodium:
+Highest average: Burger King (508.84 mg)
+Lowest average: McDonald's (338.46 mg)
+
+Cholesterol:
+Highest average: Taco Bell (56.88 mg)
+Lowest average: KFC (19.64 mg)
+
+Saturated Fat:
+Highest average: Burger King (5.24 g)
+Lowest average: KFC (1.52 g)
+
+Sugar
+Highest average: McDonald's (28.1 g)
+Lowest average: Pizza Hut (2.16 g)
+
+Calories:
+Highest average: Burger King (338.39)
+Lowest average: KFC (215.23)
 
 
 ## Milestones
