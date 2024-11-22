@@ -116,27 +116,16 @@ Average Calories:
 
 ## Preliminary Findings --> Week 13 (11/15/2024)
 
-The following were the results for the four key attributes (metrics):
+For McDonalds', most menu items cluster near the lower end of both cholesterol and sodium axes, indicating that the majority have moderate levels of both. A smaller number of menu items are outliers with extremely high cholesterol or sodium levels. A few menu items stand out with cholesterol exceeding 400 mg and sodium above 2,000 mg. These bubbles are likely high-calorie items as indicated by their larger size. Larger bubbles correspond to higher-calorie items, which tend to have higher sodium and cholesterol levels. Most high-calorie items are also high in cholesterol and sodium, reinforcing a correlation between calories and these nutritional metrics.
 
-Sodium:
-Highest average: Burger King (508.84 mg)
-Lowest average: McDonald's (338.46 mg)
+Burger King's items span a broad range of sodium levels, from less than 200 mg to over 2,800 mg. Cholesterol levels also vary significantly, with items ranging from low cholesterol (<50 mg) to extremely high (>400 mg). There is a noticeable cluster of yellow bubbles in the moderate sodium range (800–1,200 mg) and cholesterol range (50–200 mg). These are likely individual items like burgers or sandwiches with balanced portions.
 
-Cholesterol:
-Highest average: Taco Bell (56.88 mg)
-Lowest average: KFC (19.64 mg)
-
-Saturated Fat:
-Highest average: Burger King (5.24 g)
-Lowest average: KFC (1.52 g)
-
-Sugar
-Highest average: McDonald's (28.1 g)
-Lowest average: Pizza Hut (2.16 g)
-
-Calories:
-Highest average: Burger King (338.39)
-Lowest average: KFC (215.23)
+From Phase 2, the following results for the four key attributes were obtained: 
+- Sodium:<br /> Highest average: Burger King (508.84 mg) <br /> Lowest average: McDonald's (338.46 mg)
+- Cholesterol:<br /> Highest average: Taco Bell (56.88 mg) <br /> Lowest average: KFC (19.64 mg)
+- Saturated Fat:<br /> Highest average: Burger King (5.24 g)<br /> Lowest average: KFC (1.52 g)
+- Sugar:<br /> Highest average: McDonald's (28.1 g)<br /> Lowest average: Pizza Hut (2.16 g)
+- Calories:<br /> Highest average: Burger King (338.39)<br /> Lowest average: KFC (215.23)
 
 
 ## Milestones
