@@ -116,9 +116,25 @@ Average Calories:
 
 ## Preliminary Findings --> Week 13 (11/15/2024)
 
-For McDonalds', most menu items cluster near the lower end of both cholesterol and sodium axes, indicating that the majority have moderate levels of both. A smaller number of menu items are outliers with extremely high cholesterol or sodium levels. A few menu items stand out with cholesterol exceeding 400 mg and sodium above 2,000 mg. These bubbles are likely high-calorie items as indicated by their larger size. Larger bubbles correspond to higher-calorie items, which tend to have higher sodium and cholesterol levels. Most high-calorie items are also high in cholesterol and sodium, reinforcing a correlation between calories and these nutritional metrics.
+Cholesterol-Sodium Analysis:
 
-Burger King's items span a broad range of sodium levels, from less than 200 mg to over 2,800 mg. Cholesterol levels also vary significantly, with items ranging from low cholesterol (<50 mg) to extremely high (>400 mg). There is a noticeable cluster of yellow bubbles in the moderate sodium range (800–1,200 mg) and cholesterol range (50–200 mg). These are likely individual items like burgers or sandwiches with balanced portions.
+For McDonalds', there is a very noticeable cluster of menu items near the lower end of both cholesterol and sodium axes (bottom-left corner), indicating relatively moderate levels of both attributes. It is also interesting to note the presence of several large calorie items within this cluster. This some what contradicts one of my original hypothesis that high-calorie items are also high in cholesterol and sodium. On the other hand, there are a small number of outliers with very high levels of both sodium and cholesterol. 
+
+Burger King's items span a broad range of sodium levels, from less than 200 mg to over 2,800 mg. Cholesterol levels also vary significantly, with items ranging from low cholesterol (<50 mg) to extremely high (>400 mg). There is a noticeable cluster of yellow bubbles in the moderate sodium range (800–1,200 mg) and cholesterol range (50–200 mg). Burger King's high-sodium items tend to be predominantly large-calorie meals, as seen by the larger bubble sizes in the higher sodium range (>1,500 mg).
+
+Pizza Hut items primarily cluster within the moderate sodium range (400–1000 mg) and low-to-moderate cholesterol range (25–150 mg). Some bubbles are positioned near the bottom-left corner (low in both cholesterol and sodium). It is interesting to note that the items are almost on a straight horizontal line, meaning no correlation. 
+
+Wendy's menu items also had a wide range in terms of sodium and cholesterol levels, with the higher calorie items clustering around the range of 1000-2000 mg for sodium and 50-300 mg for cholesterol. Larger sized bubbles tend to have higher levels of both sodium and cholesterol with this particular set of data. 
+
+With Taco Bell, there is a large cluster grouping in the 800-1400 mg sodium and 0-200 mg cholesterol range. This particular cluster contains has a larger number of menu items with higher calories when compared to another, smaller-sized cluster located in the bottom-left corner of the graph (100-110 mg sodium and 80-120 mg cholesterol ranges)
+
+KFC's sodium range is very wide, ranging from 60 mg (for menu such as soft drinks) to over 2800 mg (mashed potatoes, bbq fries). On the other hand, the cholesterol levels are rather narrow, ranging from 0-120 mg. This illustrates that high sodium levels does not correspond to  which is rather surprising considering the very high sodium levels for some items.  
+
+Overall, the correlation between sodium and cholesterol levels for the menu items at these six fast food restaurants was generally weak-positive (McDonald's and Wendy's) and no correlation (Pizza Hut, Taco Bell and KFC). Burger King's menu items had a more positive correlation between these two particular attributes when compared to the other fast food chains.  Additionally, when looking at Wendy's and Burger King's data, there are some indications that menu items with higher calories will be positioned in graph quadrants that suggest a higher levels of sodium and cholesterol. 
+
+Saturated Fat-Sodium Analysis: TODO
+
+Sugar-Sodium Analysis: TODO
 
 From Phase 2, the following results for the four key attributes were obtained: 
 - Sodium:<br /> Highest average: Burger King (508.84 mg) <br /> Lowest average: McDonald's (338.46 mg)
@@ -126,7 +142,6 @@ From Phase 2, the following results for the four key attributes were obtained:
 - Saturated Fat:<br /> Highest average: Burger King (5.24 g)<br /> Lowest average: KFC (1.52 g)
 - Sugar:<br /> Highest average: McDonald's (28.1 g)<br /> Lowest average: Pizza Hut (2.16 g)
 - Calories:<br /> Highest average: Burger King (338.39)<br /> Lowest average: KFC (215.23)
-
 
 ## Milestones
 - Week 2: Select 3 candidate datasets
