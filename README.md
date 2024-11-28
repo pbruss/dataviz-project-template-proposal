@@ -132,8 +132,19 @@ KFC's sodium range is very wide, ranging from 60 mg (for menu such as soft drink
 
 Overall, the correlation between sodium and cholesterol levels for the menu items at these six fast food restaurants was generally weak-positive (McDonald's and Wendy's) and no correlation (Pizza Hut, Taco Bell and KFC). Burger King's menu items had a more positive correlation between these two particular attributes when compared to the other fast food chains.  Additionally, when looking at Wendy's and Burger King's data, there are some indications that menu items with higher calories will be positioned in graph quadrants that suggest a higher levels of sodium and cholesterol. 
 
-Saturated Fat-Sodium Analysis: TODO
+Saturated Fat-Sodium Analysis:
 
+McDonald's menu items has three main clusters. The first cluster is located on the left hand side of the graph and is characterized by items with lower levels of sodium in the 100-600 mg range and moderate-high levels of saturated fat ranging from 5-15 g. The calorie distribution of this first cluster is varied but the higher calories, the higher the levels of saturated fat. The s
+
+The clustering distribution of saturated fat and sodium values for Burger King's menu items is generally very dispersed with some, but not significant, positive correlation being displayed. I.e. there is a trend showing that as sodium increases, so does saturated fat. It is also possible to see that the more calories a menu item has, the greater the amount of sodium and saturated it can have. The data for Wendy's menu items behaves in a very similar manner with higher calories menu tending to be located towards the upper-right side of the graph where sodium and saturated values are noticeably higher. Overall, 
+
+Wendy's distribution is also quite similar to Burger King in that it displays a somewhat positive correlation between the two attributes. In multiple instances, as sodium values increase, so does saturated fat. Like Burger King, Wendy's menu items with higher calories tend to be located towards the upper-right side of the graph where sodium and saturated values are noticeably higher.
+
+Taco Bell's menu items tend to cluster in the center of the chart where sodium ranges 800-1400 mg and saturated fat 5-15 g. This indicates a general tendency towards moderate sodium and high saturated fat levels in Taco Bell's menu items which can be problematic. However, there is no correlation between the two attributes for this particular fast food chain.
+
+Finally, KFC's menu items display no noticeable clustering pattern, with varied distribution in values for both attributes.
+
+Regarding Pizza Hut, it clusters around 5-10 g of saturated fat and 600-1000 mg of sodium with low calories overall
 Sugar-Sodium Analysis: TODO
 
 From Phase 2, the following results for the four key attributes were obtained: 
