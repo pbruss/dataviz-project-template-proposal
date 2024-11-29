@@ -4,7 +4,7 @@
 
 The data I propose to visualize for my project is the [Fast Food Nutrition dataset](https://www.kaggle.com/datasets/joebeachcapital/fast-food), which contains nutritional values, including calories and micro-nutrients from six of the largest and most popular fast food restaurants: McDonald's, Burger King, Wendy's, Kentucky Fried Chicken (KFC), Taco Bell and Pizza Hut. The data has been [loaded and parsed as CSV](https://vizhub.com/pbruss/fast-food-nutrition-dataset-v3).
 
-The dataset consists of 1072 unique menu items (rows) and is organized with the following attributes:
+The dataset consists of 1071 unique menu items (rows) and is organized with the following attributes:
 - Categorical attributes:
     - Company
     - Item
