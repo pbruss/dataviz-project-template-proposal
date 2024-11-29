@@ -116,7 +116,7 @@ Average Calories:
 
 ## Preliminary Findings --> Week 13 (11/15/2024)
 
-Cholesterol-Sodium:
+<b>Cholesterol-Sodium:</b>
 
 For McDonalds', there is a very noticeable cluster of menu items near the lower end of both cholesterol and sodium axes (bottom-left corner), indicating relatively moderate levels of both attributes. It is also interesting to note the presence of several large calorie items within this cluster. This some what contradicts one of my original hypothesis that high-calorie items are also high in cholesterol and sodium. On the other hand, there are a small number of outliers with very high levels of both sodium and cholesterol. 
 
@@ -132,7 +132,7 @@ KFC's sodium range is very wide, ranging from 60 mg (for menu such as soft drink
 
 Overall, the correlation between sodium and cholesterol levels for the menu items at these six fast food restaurants was generally weak-positive (McDonald's and Wendy's) and no correlation (Pizza Hut, Taco Bell and KFC). Burger King's menu items had a more positive correlation between these two particular attributes when compared to the other fast food chains.  Additionally, when looking at Wendy's and Burger King's data, there are some indications that menu items with higher calories will be positioned in graph quadrants that suggest a higher levels of sodium and cholesterol. 
 
-Saturated Fat-Sodium:
+<b>Saturated Fat-Sodium:</b>
 
 McDonald's menu items has three main clusters. The first cluster is located on the left hand side of the graph and is characterized by items with lower levels of sodium in the 100-600 mg range and moderate-high levels of saturated fat ranging from 5-15 g. The calorie distribution of this first cluster is varied but the higher calories, the higher the levels of saturated fat. The s
 
@@ -144,7 +144,7 @@ Taco Bell's menu items tend to cluster in the center of the chart where sodium r
 
 Finally, KFC's menu items display no noticeable clustering pattern, with varied distribution in values for both attributes.
 
-Sugar-Sodium: 
+<b>Sugar-Sodium:</b> 
 
 For this particular set, it was interesting to note that nearly every chain had very similar patterns regarding the cluster distributions. With the exception of Pizza Hut, every restaurant had two major clusters. The first cluster, generally located on the left side of the plot, consists of with menu items that are high in sugar but relatively low in sodium. The second cluster is horizontal in shape and positioned right along the x-axis. This second cluster features items with sugar levels that are less than 50 g but increasing sodium levels. 
 
