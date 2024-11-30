@@ -91,7 +91,7 @@ Sugar vs Sodium: McDonald's Sample View
 [![image](https://github.com/user-attachments/assets/377e9166-bbd4-4b2c-8ee7-509873fdce86)
 ](https://vizhub.com/pbruss/sugar_vs_sodium_v4)
 
-## Analysis Phase 2 (Bar Chart Prototypes - Iteration 1) --> Week 12 (11/15/2024)
+## Analysis Phase II (Bar Chart Prototypes - Iteration 1) --> Week 12 (11/15/2024)
 For each fast food restaurant, the following responsive and interactive  bar charts were made:
 
 Average Sodium (mg):
@@ -136,7 +136,7 @@ Overall, the correlation between sodium and cholesterol levels for the menu item
 
 McDonald's menu items has three main clusters. The first cluster is located on the left hand side of the graph and is characterized by items with lower levels of sodium in the 100-600 mg range and moderate-high levels of saturated fat ranging from 5-15 g. The calorie distribution of this first cluster is varied but the higher calories, the higher the levels of saturated fat. The s
 
-The clustering distribution of saturated fat and sodium values for Burger King's menu items is generally very dispersed with some, but not significant, positive correlation being displayed. I.e. there is a trend showing that as sodium increases, so does saturated fat. It is also possible to see that the more calories a menu item has, the greater the amount of sodium and saturated it can have. The data for Wendy's menu items behaves in a very similar manner with higher calories menu tending to be located towards the upper-right side of the graph where sodium and saturated values are noticeably higher. Overall, 
+The clustering distribution of saturated fat and sodium values for Burger King's menu items is generally very dispersed with some, but not significant, positive correlation being displayed. I.e. there is a trend showing that as sodium increases, so does saturated fat. It is also possible to see that the more calories a menu item has, the greater the amount of sodium and saturated it can have. The data for Wendy's menu items behaves in a very similar manner with higher calories menu tending to be located towards the upper-right side of the graph where sodium and saturated values are noticeably higher.
 
 Wendy's distribution is also quite similar to Burger King in that it displays a somewhat positive correlation between the two attributes. In multiple instances, as sodium values increase, so does saturated fat. Like Burger King, Wendy's menu items with higher calories tend to be located towards the upper-right side of the graph where sodium and saturated values are noticeably higher.
 
@@ -154,12 +154,56 @@ For McDonald's first cluster on the left hand-side, it is possible to see a stro
 
 Overall, the McDonald's cluster on the left hand offered the biggest indication of a relationship between sugar and sodium. 
 
-From Phase 2, the following results for the four key attributes were obtained: 
+## Phase I - Result findings and highlights --> Week 14 (11/29/2024)
+- Cholesterol vs Sodium:​
+    - Weak-positive correlation: McDonald's, Burger King, Wendy's​
+    - No correlation: Pizza Hut, Taco Bell, KFC​
+
+- Saturated Fat vs Sodium: ​
+    - Weak-positive correlation: McDonald's, Burger King Wendy's, Pizza Hut, Taco Bell​
+    - No correlation: KFC​
+
+- Sugar vs Sodium:​ Most restaurant chains exhibited two main clusters for their menu items:​
+    - high in sugar, low in sodium (beverages): Strong-Positive correlation seen in McDonalds data points with this cluster
+    - low in sugar, high in sodium (non-beverages)​
+
+## Phase II - Result findings and highlights --> Week 14 (11/29/2024)
+
+From Phase II, the following results for the four key attributes were obtained: 
 - Sodium:<br /> Highest average: Burger King (508.84 mg) <br /> Lowest average: McDonald's (338.46 mg)
+  
 - Cholesterol:<br /> Highest average: Taco Bell (56.88 mg) <br /> Lowest average: KFC (19.64 mg)
+  
 - Saturated Fat:<br /> Highest average: Burger King (5.24 g)<br /> Lowest average: KFC (1.52 g)
+  
 - Sugar:<br /> Highest average: McDonald's (28.1 g)<br /> Lowest average: Pizza Hut (2.16 g)
+  
 - Calories:<br /> Highest average: Burger King (338.39)<br /> Lowest average: KFC (215.23)
+  
+## Challenges & Data Limitations --> Week 14 (11/29/2024)
+Challenges: Finding the appropriate mathematical function to represent the bubble radii (i.e. the calories) which balances encoding visibility with size proportionality.
+
+Data Limitations: Uneven count of menu items may skew averages found in Phase II: ​
+- McDonald's – 328​
+- Burger King – 189​
+- Wendy's – 153​
+- KFC – 217​
+- Taco Bell - 182​
+- Pizza Hut – 73
+
+## Future Work & Implementations​ --> Week 14 (11/29/2024)
+- Calculate weighted average instead of just the general, unweighted average​.
+- Implement a parallel coordinates plot for further multi-attribute analysis.
+
+
+## Links & References​​ --> Week 14 (11/29/2024)
+- Viz Summary: https://vizhub.com/pbruss/cs573_project_viz_summary​
+- VizHub Coding References:​
+    - Responsive Axes: https://vizhub.com/curran/responsive-axes​
+    - Axis Labels: https://vizhub.com/curran/axis-labels​
+    - Scales and Axes: https://vizhub.com/curran/62cd7e49825448cda908ef84e492df7e​
+    - Responsive Scatter Plot: https://vizhub.com/curran/responsive-scatter-plot​
+    - Bar Char with Basic Hover: https://vizhub.com/curran/668bdd63bc2f4e03aa624e4aa65c095f
 
 ## Milestones
 - Week 2: Select 3 candidate datasets
