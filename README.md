@@ -39,7 +39,7 @@ This is the sketch of the viz I intend to present for this project. The data is 
 ![Sketch View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/sketch_2.png?raw=true)
 This is an extension of the first sketch. It introduces categorical groupings by restaurant name. The goal of this sketch is to address the question - are there any patterns that can be observed by food served at specific restaurants with regard to the sodium and cholesterol? Interactions also include hovering and zooming.
 
-## First Iteration Prototypes (w/ no category coloring)
+## First Iteration Prototypes (bubble chart with no category coloring)
 I’ve created a [Cholesterol vs Sodium proof of concept visualization](https://vizhub.com/pbruss/cs573-final-project) of this data.
 
 ![Prototype View](https://github.com/pbruss/dataviz-project-template-proposal/blob/master/prototype.png?raw=true)
@@ -52,7 +52,7 @@ Saturated Fat vs Sodium:
 [![image](https://github.com/user-attachments/assets/9f94fb48-8924-4872-be4b-ba110ec17488)
 ](https://vizhub.com/pbruss/saturatedfat_vs_sodium_v1)
 
-## Second Iteration Prototypes (w/ category coloring)
+## Second Iteration Prototypes (updated bubble chart w/ category coloring)
 Cholesterol vs Sodium:
 [![image](https://github.com/user-attachments/assets/e608502d-8bb7-4a37-9da7-d00883e7ced8)
 ](https://vizhub.com/pbruss/cholesterol-vs-sodium)
@@ -65,7 +65,7 @@ Saturated Fat vs Cholesterol:
 [![image](https://github.com/user-attachments/assets/fa76b0b7-59be-413c-8c54-c1e0e78170ba)
 ](https://vizhub.com/pbruss/saturatedfat_vs_sodium_v2)
 
-## Third Iteration Prototypes (w/ legend)
+## Third Iteration Prototypes (updated bubble chart w/ legend)
 Cholesterol vs Sodium:
 [![image](https://github.com/user-attachments/assets/1983dea2-95ef-4e42-a7ec-95df97678b14)
 ](https://vizhub.com/pbruss/cholesterol_vs_sodium_v3)
@@ -78,41 +78,72 @@ Sugar vs Sodium:
 [![image](https://github.com/user-attachments/assets/e7128554-63bb-419c-a25a-c91c7f145d2f)
 ](https://vizhub.com/pbruss/sugar_vs_sodium_v3)
 
-## Fourth Iteration Prototypes (w/ interactive color display)
+## Fourth Iteration Prototypes (updated bubble chart with with interactive linked hightlighting color display and tooltip features)
 Cholesterol vs Sodium: McDonald's Sample View
 [![image](https://github.com/user-attachments/assets/c045af05-b51c-4ac8-aab6-5775ccee4f19)
 ](https://vizhub.com/pbruss/cholesterol_vs_sodium_v4)
+
+Cholesterol vs Sodium - Tooltip Screenshot:
+![Screenshot (70)](https://github.com/user-attachments/assets/3d25f95f-ef1d-42e5-882b-dc47110253be)
 
 Saturated Fat vs Sodium: McDonald's Sample View
 [![image](https://github.com/user-attachments/assets/a42a10df-5ca9-4567-b45b-7df01224b6eb)
 ](https://vizhub.com/pbruss/saturatedfat_vs_sodium_v4)
 
+Saturated Fat vs Sodium: Tooltip Screenshot
+![Screenshot (74)](https://github.com/user-attachments/assets/f3eaea4a-9929-4e13-bb3c-6cb58e8f6fa7)
+
 Sugar vs Sodium: McDonald's Sample View
 [![image](https://github.com/user-attachments/assets/377e9166-bbd4-4b2c-8ee7-509873fdce86)
 ](https://vizhub.com/pbruss/sugar_vs_sodium_v4)
 
-## Analysis Phase II (Bar Chart Prototypes - Iteration 1) --> Week 12 (11/15/2024)
+Sugar vs Sodium: Tooltip Screenshot
+![Screenshot (75)](https://github.com/user-attachments/assets/4721ee3e-d9e7-42e3-bc20-809a7a54fd1a)
+
+## Analysis Phase II (Bar Chart Prototypes with tooltip features) --> Week 12 (11/15/2024)
 For each fast food restaurant, the following responsive and interactive  bar charts were made:
 
 Average Sodium (mg):
 [![image](https://github.com/user-attachments/assets/9b8b24c7-ce16-4261-8463-95394c1ffd7a)
 ](https://vizhub.com/pbruss/avg_sodium_barchart_v1)
 
+Average Sodium (mg) - tooltip screenshot:
+![Screenshot (76)](https://github.com/user-attachments/assets/4d16ce5d-3f2c-45c9-92bd-4c911b9c871e)
+
 Average Cholesterol (mg):
 [![image](https://github.com/user-attachments/assets/70df5898-2c1b-4d93-88e2-ac24719fbd40)
 ](https://vizhub.com/pbruss/avg_cholesterol_barchart_v1)
+
+Average Cholesterol (mg) - tooltip screenshot:
+![Screenshot (77)](https://github.com/user-attachments/assets/d3cb5f37-2bdc-4408-94da-d026785ad1e3)
 
 Average Saturated Fat (g):
 [![image](https://github.com/user-attachments/assets/17b74beb-bbea-4b9c-a16c-1a52b94c33c4)
 ](https://vizhub.com/pbruss/avg_satfat_barchart_v1)
 
+Average Saturated Fat (g) - tooltip screenshot:
+![Screenshot (78)](https://github.com/user-attachments/assets/5911c973-d43b-4c09-87c4-1ce1fa160a25)
+
 Average Sugar (g):
 [![image](https://github.com/user-attachments/assets/13668b0c-6ab4-48e2-b684-dfcf0ae41c29)
 ](https://vizhub.com/pbruss/avg_sugar_barchart_v1)
 
+Average Sugar (g) - tooltip screenshot:
+![Screenshot (81)](https://github.com/user-attachments/assets/72d17cc9-52de-49f5-86ff-0888ae66a9ca)
+
 Average Calories:
 [![image](https://github.com/user-attachments/assets/e8bd2348-aef9-41fa-b1f9-174363ed236f)
 ](https://vizhub.com/pbruss/avg_calories_barchart_v1)
+
+Average Calories - tooltip screenshot:
+![Screenshot (82)](https://github.com/user-attachments/assets/d280a2e5-04a9-48a5-beb2-3501ab2c126f)
+
+## Summary of Viz Features: Week 14 (11/29/2024)
+
+All Viz charts in this project include the following features and purpose:
+- linked highlighting: highlights relevant data clusters within bubble charts when a user hovers over a particular legend item
+- tooltip: displays relevant numerical and catecogrical data for both the bar and bubble charts when a user hovers over a particular bubble or bar chart column
+- resposnive scales and axes: supports different device screen sizes and manual resize operations​ made by users/viewers
 
 ## Preliminary Findings --> Week 13 (11/15/2024)
 
@@ -180,10 +211,9 @@ From Phase II, the following results for the four key attributes were obtained:
   
 - Calories:<br /> Highest average: Burger King (338.39)<br /> Lowest average: KFC (215.23)
   
-## Challenges & Data Limitations --> Week 14 (11/29/2024)
-Challenges: Finding the appropriate mathematical function to represent the bubble radii (i.e. the calories) which balances encoding visibility with size proportionality.
-
-Data Limitations: Uneven count of menu items may skew averages found in Phase II: ​
+## Data Limitations & Main Project Challenges --> Week 14 (11/29/2024)
+Data Limitations: 
+The original dataset from Kaggle had somewhat of an uneven count of menu items, especially for Pizza Hut: 
 - McDonald's – 328​
 - Burger King – 189​
 - Wendy's – 153​
@@ -191,21 +221,28 @@ Data Limitations: Uneven count of menu items may skew averages found in Phase II
 - Taco Bell - 182​
 - Pizza Hut – 73
 
+This may have affected the final averages that were found in Phase II.
+
+Challenges: 
+For Phase I, I initially had some difficulties finding the appropriate mathematical function to represent the bubble radii (i.e. the calories). There was a need to balance encoding bubble visibility with size proportionality. With some functions, the bubbles representing menu items with higher calorie values ended up obscuring those items that were lower in calories, especially if they were part of the same clusters. With other funtions, the lower calorie items ended would simly vanish
+
 ## Future Work & Implementations​ --> Week 14 (11/29/2024)
+Possible improvements can be made to this project and the results with the following approaches:
 - Calculate weighted average instead of just the general, unweighted average​.
 - Implement a parallel coordinates plot for further multi-attribute analysis.
+- Search for larger fast food datasets.
+- Formulate a more systematic approach to tracking and recording the mathematical functions used in order to achieve the optimal bubble radii visibility.
 
+## Project Links & External References​​ --> Week 14 (11/29/2024)
+- [Project Viz Summary:](https://vizhub.com/pbruss/cs573_project_viz_summary)
+- VizHub Coding References (by Prof. Curran Kelleher):​
+    - [Responsive Axes:](https://vizhub.com/curran/responsive-axes)
+    - [Axis Labels:](https://vizhub.com/curran/axis-labels)
+    - [Scales and Axes:](https://vizhub.com/curran/62cd7e49825448cda908ef84e492df7e)
+    - [Responsive Scatter Plot:](https://vizhub.com/curran/responsive-scatter-plot)
+    - [Bar Char with Basic Hover:](https://vizhub.com/curran/668bdd63bc2f4e03aa624e4aa65c095f)
 
-## Links & References​​ --> Week 14 (11/29/2024)
-- Viz Summary: https://vizhub.com/pbruss/cs573_project_viz_summary​
-- VizHub Coding References:​
-    - Responsive Axes: https://vizhub.com/curran/responsive-axes​
-    - Axis Labels: https://vizhub.com/curran/axis-labels​
-    - Scales and Axes: https://vizhub.com/curran/62cd7e49825448cda908ef84e492df7e​
-    - Responsive Scatter Plot: https://vizhub.com/curran/responsive-scatter-plot​
-    - Bar Char with Basic Hover: https://vizhub.com/curran/668bdd63bc2f4e03aa624e4aa65c095f
-
-## Milestones
+## Preliminary Milestones
 - Week 2: Select 3 candidate datasets
 - Week 3: Identify 5 dataset tasks for each candidate dataset
 - Week 4: Present 3-5 visualization ideas through rough sketches
